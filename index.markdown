@@ -1,6 +1,7 @@
 ---
-title: A Deep Dive Into Vehicular Collisions in NYC 
+title: Assignments for course (02806) Social Data Analysis and Visualization
 ---
 
-The below visualistations stem from the linked [iPython notebook]
+Please find below the different assignments made for Social Data Analysis and Visualization.
+
 
