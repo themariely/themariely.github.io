@@ -22,6 +22,5 @@ We can see from the picture displayed that Tenderloin is the neighborhood with t
 <img src="{{site.url}}/imgs/barplot_drugs_districts.png" style="display: block; margin: auto;" />
 
 
-# Map visualization
 
 <iframe src="imgs/map_drugs_per_district_area.html" width="100%" height="600"></iframe>
