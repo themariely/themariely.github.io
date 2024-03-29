@@ -10,7 +10,7 @@ categories: jekyll update
 In this page, we will conduct an analysis of the variation in drug and narcotics incident reports in San Francisco across the majority of the first two decades of the 21st century. 
 Drug and narcotics incident occurrences are related to illegal drugs or controlled substances (consumption, manufacturing, distributions, etc). For this analysis we are using a data set obtained from https://datasf.org/opendata/, which contains all crimes occurences reported to San Francisco Police Department from 2003 until the first few months of 2018.
 
-As of 20120, 700K drug overdose deaths have been reportted in the US since 2000 (https://drugabusestatistics.org/).
+As of 2020, 700K drug overdose deaths have been reportted in the US since 2000 (https://drugabusestatistics.org/).
 
 
 # Exploring the data
@@ -25,4 +25,15 @@ We can see from the picture displayed that Tenderloin is the neighborhood with t
 # Map visualization
 
 
-<embed type="text/html" src="imgs/map_drugs_per_district_area.html" width="100%" height="600"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded HTML</title>
+</head>
+<body>
+    <!-- Embedding the HTML file -->
+    <embed type="text/html" src="imgs/map_drugs_per_district_area.html" width="100%" height="600"/>
+</body>
+</html>
