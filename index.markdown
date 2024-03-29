@@ -1,5 +1,5 @@
 ---
-title: (02806) Social Data Analysis and Visualization
+title: Assignment 2
 ---
 
 Please find below the different assignments made for Social Data Analysis and Visualization.
@@ -23,5 +23,4 @@ We can see from the picture displayed that Tenderloin is the neighborhood with t
 
 
 # Map visualization
-
-<iframe src="imgs/map_drugs_per_district_area.html" width="1200" height="600"></iframe>
+<embed type="text/html" src="imgs/map_drugs_per_district_area.html" width="100%" height="950"/>
