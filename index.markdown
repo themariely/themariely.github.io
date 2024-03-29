@@ -23,4 +23,4 @@ We can see from the picture displayed that Tenderloin is the neighborhood with t
 
 
 # Map visualization
-<embed type="text/html" src="imgs/map_drugs_per_district_area.html" width="100%" height="950"/>
+<embed type="text/html" src="imgs/map_drugs_per_district_area.html" width="110%" height="950"/>
