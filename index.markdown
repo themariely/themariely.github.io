@@ -18,7 +18,7 @@ The graph 1 displays the number of drug and narcotics incidents reported in San 
 We can see from the picture displayed that Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported in San Francisco. This is followed by South of Market and Mission. Although the number of incidents in Tenderloin is significantly higher than in the other neighborhoods, the trend in the number of incidents is similar across all neighborhoods. The number of incidents reported in Tenderloin is decreasing, while the number of incidents in South of Market and Mission is increasing.
 
 <img src="{{site.url}}/imgs/barplot_drugs_districts.png" style="display: block; margin: auto;" />
-![Caption for Graph 1]({{site.url}}/imgs/barplot_drugs_districts.png)
+
 
 # Map visualization 1
 
@@ -30,3 +30,5 @@ Upon looking at such results, one may wonder "but perhaps Tenderloin is larger d
 # Map visualization 2
 
 https://www.nbcbayarea.com/news/local/walking-san-franciscos-dirtiest-block-with-snapcrap-app-creator/204130/ reports that in Tenderloin is located the worst/dirstiest block where you find drug additcs, bla bla bla 
+
+<embed type="text/html" src="imgs/map_drugs_tenderloin_focus.html" width="110%" height="950"/>
