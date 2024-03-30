@@ -29,4 +29,4 @@ Upon looking at such results, one may wonder "but perhaps Tenderloin is larger d
 
 # Map visualization 2
 
-https://www.nbcbayarea.com/news/local/walking-san-franciscos-dirtiest-block-with-snapcrap-app-creator/204130/ reports that in Tenderloin is located the wors
+https://www.nbcbayarea.com/news/local/walking-san-franciscos-dirtiest-block-with-snapcrap-app-creator/204130/ reports that in Tenderloin is located the worst/dirstiest block where you find drug additcs, bla bla bla 
