@@ -32,3 +32,4 @@ Upon looking at such results, one may wonder "but perhaps Tenderloin is larger d
 https://www.nbcbayarea.com/news/local/walking-san-franciscos-dirtiest-block-with-snapcrap-app-creator/204130/ reports that in Tenderloin is located the worst/dirstiest block where you find drug additcs, bla bla bla 
 
 <embed type="text/html" src="imgs/map_drugs_tenderloin_focus.html" width="110%" height="950"/>
+ rkrvmfvovmr
