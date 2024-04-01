@@ -39,3 +39,5 @@ https://www.nbcbayarea.com/news/local/walking-san-franciscos-dirtiest-block-with
 
 # Last plot
 <embed type="text/html" src="imgs/map_reportings_tenderloin.html" width="110%" height="950"/>
+
+This is an ending comment!
