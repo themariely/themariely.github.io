@@ -7,9 +7,11 @@ Please find below the different assignments made for Social Data Analysis and Vi
 
 # Introduction
 
+Drug and narcotics incidents are related to illegal drugs or controlled substances and may include manufacturing, distribution, possession, and trafficking, amongst others. According to the [National Institute on Drug Abuse](https://drugabusestatistics.org/), drug overdose deaths have been increasing each year in the US since 1999. As a matter of fact, over 700,000 drug overdose deaths have been reported. These numbers clearly highlight the importance of understanding the trends in drug and narcotics incidents in order to develop strategies to prevent and reduce them.
+
 In this page, we will conduct an analysis of the variation in drug and narcotics incident reports in San Francisco across the majority of the first two decades of the 21st century. For this analysis we are using a dataset obtained from [DataSF](https://datasf.org/opendata/), which contains all crimes occurences reported to San Francisco Police Department from 2003 until the first few months of 2018 (for simplicity we will focus on the period from 2003 to 2017, as the data for 2018 is incomplete). The dataset contains information about the type of crime, the date and time it occurred, the police district where it occurred, and the latitude and longitude of the location where it occurred. We will use this information to shed light to any notable temporal trends and identify hotspots of drug activity.
 
-Drug and narcotics incidents are related to illegal drugs or controlled substances and may include manufacturing, distribution, possession, and trafficking, amongst others. According to the [National Institute on Drug Abuse](https://drugabusestatistics.org/), drug overdose deaths have been increasing each year in the US since 1999. As a matter of fact, over 700,000 drug overdose deaths have been reported. These numbers clearly highlight the importance of understanding the trends in drug and narcotics incidents in order to develop strategies to prevent and reduce them.
+
 
 # Exploring the data
 
