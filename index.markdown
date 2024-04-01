@@ -15,9 +15,14 @@ In this page, we will conduct an analysis of the variation in drug and narcotics
 
 # Exploring the data
 
-The graph 1 displays the number of drug and narcotics incidents reported in San Francisco from 2003 to 2017. Graphs 2, 3 and 4 show the number of the same type of incidents reported in the worst neighbourhoods for this category. The number of incidents reported has been decreasing since 2003, with a slight increase in 2015. The number of incidents reported in 2018 is the lowest in the period analyzed.
+Plot 1, visible below, illistrates a significant downward trend in the number of drugs and narcotics incidents reported since 2003, with a slight increase in 2015. The number of incidents reported in 2017 is the lowest in the period analyzed. 
 
-We can see from the picture displayed that Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported in San Francisco. This is followed by South of Market and Mission. Although the number of incidents in Tenderloin is significantly higher than in the other neighborhoods, the trend in the number of incidents is similar across all neighborhoods. The number of incidents reported in Tenderloin is decreasing, while the number of incidents in South of Market and Mission is increasing.
+Moreover, in the same plot, it is possible to see that Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported in San Francisco, which is followed by Southern and Mission, respectively. What's particularly interesting is the sharp contrast between Tenderloin and the other neighborhoods. Throughout the analyzed period, Tenderloin consistently reports more incidents than Southern and Mission combined.
+
+This highlights a pressing issue within the Tenderloin neighborhood that needs attetion and planned intervention.
+
+
+Make it a bit better "in the heart of San francisco, the Tenderloin neighborhood is the epicenter of drug and narcotics incidents in the city. Throughout the analyzed period, Tenderloin consistently reports more incidents than Southern and Mission combined. This highlights a pressing issue within the Tenderloin neighborhood that needs attention and planned intervention.""
 
 <img src="{{site.url}}/imgs/barplot_drugs_districts.png" style="display: block; margin: auto;" />
 
@@ -26,13 +31,17 @@ We can see from the picture displayed that Tenderloin is the neighborhood with t
 
 # Map visualization 
 
-https://www.nbcbayarea.com/news/local/walking-san-franciscos-dirtiest-block-with-snapcrap-app-creator/204130/ reports that in Tenderloin is located the worst/dirstiest block where you find drug additcs, bla bla bla 
+In 2018, Tenderloin got honoured by hosting the distiest block in all San Francisco ([The New York Times](https://www.nytimes.com/2018/10/08/us/san-francisco-dirtiest-street-london-breed.html)), the 300 block of Hyde Street. This block is located in the heart of the Tenderloin neighborhood and is known to be the chosen location for homeless people and drug addicts, thus all the heroine needles and human feces that are constantly seen there.
+
+The map below shows what could be expected according to the information in the section above. The Tenderloin neighbourhood, which has the smallest area of all San Francisco districts, has several hotspots for drug and narcotics incidets spread around its area. 
+
+The big focus made by the media about the 300 block of Hyde Street and its home to in the open drug activity, could create the impression that this is a place where most of the drug and narcotics incidents are reported. However, the map below shows that this is not the case. As it happens, the whole area is covered with red dots, indicating no corner is free from this type of illicit activity.
+
 
 <embed type="text/html" src="imgs/map_drugs_tenderloin_focus.html" width="110%" height="950"/>
- rkrvmfvovmr
+*Interative heatmap showing the variation of DRUG/NARCOTICS crime reports in the Tenderloin neighbourhood from 2003 to 2017*
 
 
 # Last plot
 <embed type="text/html" src="imgs/map_reportings_tenderloin.html" width="110%" height="950"/>
 
-This is an ending comment!
