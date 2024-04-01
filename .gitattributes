@@ -2,8 +2,6 @@ police_report.csv filter=lfs diff=lfs merge=lfs -text
 code/police_report.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 <<<<<<< HEAD
-*.html filter=lfs diff=lfs merge=lfs -text
-imgs/map_drugs_tenderloin_focus.html filter=lfs diff=lfs merge=lfs -text
 “*.csv” filter=lfs diff=lfs merge=lfs -text
 =======
 >>>>>>> 4303b4cad4aa8bbf8a7157a7314d3b2934b4e824
