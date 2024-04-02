@@ -1,5 +1,5 @@
 ---
-title: San Francisco's struggle with drugs and narcotics
+title: 'Dope in the City: San Francisco's struggle with drugs'
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 <div align="justify">
