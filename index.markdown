@@ -1,6 +1,6 @@
 ---
 title: San Francisco's struggle with drugs and narcotics
-
+---
 
 Throughout the years San Fransisco has been in a battle with drugs and crime. According to the [National Institute on Drug Abuse](https://drugabusestatistics.org/), drug overdose deaths have been increasing each year in the US since 1999, where over 700,000 drug overdose deaths have been reported. As late as the 2. Feb 2024 New York Times states that “San Fransisco is in the middle of a drug crisis” [reference]. As the influence of drugs in San Fransico is non-negociable, this page will inevstigate how the social situation is reflected in the police reporting of the Police Department from 2003 to 2017. 
 
@@ -17,12 +17,7 @@ San Fransisco has 10 districts spanning over 121 kilometers and is the home of 8
 
  Plot 1, visible below, illistrates a significant downward trend in the number of drugs and narcotics incidents reported since 2003, with a slight increase in 2015. The number of incidents reported in 2017 is the lowest in the period analyzed.
 We can see from the picture displayed that Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported in San Francisco with around twice as meny reports as the next worst district. Although the number of incidents in Tenderloin is significantly higher than in the other neighborhoods, the trend in the number of incidents is similar across all neighborhoods.
-Moreover, in the same plot, it is possible to see that Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported in San Francisco, which is followed by Southern and Mission, respectively. What's particularly interesting is the sharp contrast between Tenderloin and the other neighborhoods. Throughout the analyzed period, Tenderloin consistently reports more incidents than Southern and Mission combined.
- 
-This highlights a pressing issue within the Tenderloin neighborhood that needs attetion and planned intervention.
- 
- 
-Make it a bit better "in the heart of San francisco, the Tenderloin neighborhood is the epicenter of drug and narcotics incidents in the city. Throughout the analyzed period, Tenderloin consistently reports more incidents than Southern and Mission combined. This highlights a pressing issue within the Tenderloin neighborhood that needs attention and planned intervention.""
+
 
 # What types of drug?
 
