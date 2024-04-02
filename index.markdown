@@ -21,15 +21,13 @@ We can see from the picture displayed that Tenderloin is the neighborhood with t
 
 *Plot 1: The barplot displays the count of DRUG/NARCOTICS crime reports in San Francisco from 2003 to 2017; Plot 2-4: The barplots display the count of DRUG/NARCOTICS crime reports in Tenderloin, Southern and Mission, respectively, from 2003 to 2017*
 
-From the main figure is seen a general trend where the umber of incidents reported has been decreasing since 2003, with a peak in 2015. The number of incidents reported in 2017 is the lowest in the period analyzed. Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported. This is followed by South of Market and Mission. Although the number of incidents in Tenderloin is significantly higher than in the other neighborhoods, the trend in the number of incidents is similar across all neighborhoods. 
-
 # What types of drug?
 
 The trend of the police reportings contrasts the perceived presence of an increasing drug problem in the media. The reporting instances are therefore categorized by drug type to see if the trend is caused by a specific drug. The most recurring instance descriptions were investigated to make a list of the most popular drugs including the categories "" referring to drug related equipment and "Other". Each instance was sorted into a category according the the drug name contained in the description. The evolution of the police reporting for each 6 months after the year 2003  is illustrated in the following interactive plot categorized by drug type. 
 
 <embed type="text/html" src="imgs/map_reportings_tenderloin.html" width="110%" height="950"/>
 
-It is clear that Cocain has been the most dominant drug in circulation with a trend similar to the trend of the overall drug reportings.  Narcotic paraphernalia and other drug related offences also follow the trend with a smaller magnitude and a smaller peak in 2010 compared to cocain. As the specification of the narcotic paraphernalia and the other offences are unknown it one can not reject the possibility that these categories are a consequence of the cocain related consumption. The other categories show a more stable evolution with a slight negative slope. 
+It is clear that Cocaine has been the most dominant drug in circulation with a trend similar to the trend of the overall drug reportings.  Narcotic paraphernalia and other drug related offences also follow the trend with a smaller magnitude and a smaller peak in 2010 compared to cocain. As the specification of the narcotic paraphernalia and the other offences are unknown it one can not reject the possibility that these categories are a consequence of the cocain related consumption. The other categories show a more stable evolution with a slight negative slope. 
 
 # Map visualization 
 
