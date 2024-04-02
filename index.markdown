@@ -1,6 +1,5 @@
 ---
 title: 'Dope in the City: San Francisco's struggle with drugs'
-feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 <div align="justify">
 <p>Throughout the years San Francisco has been in a battle with drug related crimes. According to the <a href="https://drugabusestatistics.org/">National Institute on Drug Abuse</a>, drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700 000 reported deaths.</p>
