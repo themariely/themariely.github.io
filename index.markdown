@@ -42,17 +42,14 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 # Map visualization 
 
 <div align="justify">
-<p>In 2018, Tenderloin got honored by hosting the dirtiest block in all San Francisco (<a href="https://www.nytimes.com/2018/10/08/us/san-francisco-dirtiest-street-london-breed.html">The New York Times</a>), the 300 block of Hyde Street. This block is located in the heart of the Tenderloin neighborhood and is known to be the chosen location for homeless people and drug addicts, thus all the heroin needles and human feces that are constantly seen there.</p>
+<p>In 2018, Tenderloin got honored by hosting the dirtiest block in all San Francisco (<a href="https://www.nytimes.com/2018/10/08/us/san-francisco-dirtiest-street-london-breed.html">The New York Times</a>), the 300 block of Hyde Street. This block, located in the heart of the Tenderloin neighborhood, is known to be the a gathering spot for homeless population and drug users for years. Consequently, it has become a unclean and smelly area with multiple heroin needles and human feces out in the open.</p>
 
-<p>The map below shows what could be expected according to the information in the section above. The Tenderloin neighborhood, which has the smallest area of all San Francisco districts, has several hotspots for drug and narcotics incidents spread around its area.</p>
+<p> Could the presence of such troubled subjects and the out in the open drug activity in this block contribute to more reports of drug-related incidents? In order to analysise this, we've analyzed the intensity of drug and narcotics crimes across different areas within Tenderloin, as seen in Figure 3. </p>
+<embed type="text/html" src="imgs/heatmap_tenderloin_map.html" width="110%" height="950"/>
+<p><em> Figure 3: heatmap which illustrates the intensity of DRUG/NARCOTICS crime reports across the Tenderloin neighborhood from 2003 to 2017. Note that the colours seen describe the frequency of incidents: from cool blues indicating lower activity to fiery reds signaling higher occurrences. Keep an eye out for the "dirtiest" block identified by a marker. </em></p>
 
 <p>The big focus made by the media about the 300 block of Hyde Street and its home to in the open drug activity could create the impression that this is a place where most of the drug and narcotics incidents are reported. However, the map below shows that this is not the case. As it happens, the whole area is covered with red dots, indicating no corner is free from this type of illicit activity.</p>
 </div>
-
-<embed type="text/html" src="imgs/heatmap_tenderloin_map.html" width="110%" height="950"/>
-<p><em> The heatmap illustrates the intensity of DRUG/NARCOTICS crime reports across the Tenderloin neighborhood from 2003 to 2017. Note that the colours seen describe the frequency of incidents: from cool blues indicating lower activity to fiery reds signaling higher occurrences. Keep an eye out for the "dirtiest" block identified by a marker. </em></p>
-
-
 # Outside factors
 
 <div align="justify">
