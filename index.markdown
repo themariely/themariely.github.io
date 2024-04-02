@@ -1,36 +1,37 @@
 ---
-title: Assignment 2
----
-
-Please find below the different assignments made for Social Data Analysis and Visualization.
+title: San Francisco's struggle with drugs and narcotics
 
 
-# Introduction
-
-Throughout the years San Fransisco has been in a battle with drugs and crime. According to the [National Institute on Drug Abuse](https://drugabusestatistics.org/), drug overdose deaths have been increasing each year in the US since 1999, where over 700,000 drug overdose deaths have been reported. As late as the 2. Feb 2024 New York Times states that “San Fransisco is in the middle of a drug crisis” [reference]. As the influence of drugs in San Fransico is non-negociable, this page will inevstigate how the social situation is reflected in the police reporting of the Police Department from 2003 to 2017. {: .right}
+Throughout the years San Fransisco has been in a battle with drugs and crime. According to the [National Institute on Drug Abuse](https://drugabusestatistics.org/), drug overdose deaths have been increasing each year in the US since 1999, where over 700,000 drug overdose deaths have been reported. As late as the 2. Feb 2024 New York Times states that “San Fransisco is in the middle of a drug crisis” [reference]. As the influence of drugs in San Fransico is non-negociable, this page will inevstigate how the social situation is reflected in the police reporting of the Police Department from 2003 to 2017. 
 
 The dataset is obtained from  [DataSF](https://datasf.org/opendata/) containing all crime occurrences in San Fransisco over this period. The incidents on drugs and narcotics are extraced and analysed which include incidents related to illegal drugs or controlled substances and may include manufacturing, distribution, possession, and trafficking, amongst others. The dataset contains information about the type of crime, the date and time it occurred, the police district where it occurred, and the latitude and longitude of the location where it occurred and mode. This information will be used to to shed light on the social situation in San Fransisco from an other point of view
 
-# Exploring the data
+# San Fransisco in districts
 
-The graph 1 displays the number of drug and narcotics incidents reported in San Francisco from 2003 to 2017. Graphs 2, 3 and 4 show the number of the same type of incidents reported in the worst neighbourhoods for this category. The number of incidents reported has been decreasing since 2003, with a slight increase in 2015. The number of incidents reported in 2018 is the lowest in the period analyzed.
 
-We can see from the picture displayed that Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported in San Francisco. This is followed by South of Market and Mission. Although the number of incidents in Tenderloin is significantly higher than in the other neighborhoods, the trend in the number of incidents is similar across all neighborhoods. The number of incidents reported in Tenderloin is decreasing, while the number of incidents in South of Market and Mission is increasing.
+San Fransisco has 10 districts spanning over 121 kilometers and is the home of 808 437 residents [reference]. It is common knowledge that districts within a city have different characteristics, especially in a city as big as San Fransisco. Hence the number of drugs/narcotic-related reportings from 2003 to 2017 is illustrated in the figure on the left below where the instance location is color-coded according to the district. The three districts with the highest drug-related repotings are highlighted on the right of the figure which are Tenderloin, Southern and Mission respectively. The number of incidents reported has been decreasing since 2003 peaking in 2014. The number of incidents reported in 2017 is the lowest in the period analyzed.
 
-<img src="{{site.url}}/imgs/barplot_drugs_districts.png" style="display: block; margin: auto;" />
+{% include drug_crime_all.png %}
 
 *Plot 1: The barplot displays the count of DRUG/NARCOTICS crime reports in San Francisco from 2003 to 2017; Plot 2-4: The barplots display the count of DRUG/NARCOTICS crime reports in Tenderloin, Southern and Mission, respectively, from 2003 to 2017*
 
+ Plot 1, visible below, illistrates a significant downward trend in the number of drugs and narcotics incidents reported since 2003, with a slight increase in 2015. The number of incidents reported in 2017 is the lowest in the period analyzed.
+We can see from the picture displayed that Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported in San Francisco with around twice as meny reports as the next worst district. Although the number of incidents in Tenderloin is significantly higher than in the other neighborhoods, the trend in the number of incidents is similar across all neighborhoods.
+Moreover, in the same plot, it is possible to see that Tenderloin is the neighborhood with the highest number of drug and narcotics incidents reported in San Francisco, which is followed by Southern and Mission, respectively. What's particularly interesting is the sharp contrast between Tenderloin and the other neighborhoods. Throughout the analyzed period, Tenderloin consistently reports more incidents than Southern and Mission combined.
+ 
+This highlights a pressing issue within the Tenderloin neighborhood that needs attetion and planned intervention.
+ 
+ 
+Make it a bit better "in the heart of San francisco, the Tenderloin neighborhood is the epicenter of drug and narcotics incidents in the city. Throughout the analyzed period, Tenderloin consistently reports more incidents than Southern and Mission combined. This highlights a pressing issue within the Tenderloin neighborhood that needs attention and planned intervention.""
+
 # What types of drug?
 
-The trend of the police reportings contrasts the perceived presence of an increasing drug problem in the media. The reporting instances are therefore categorized by drug type to see if the trend is caused by a specific drug. The most recurring instance descriptions were investigated to make a list of the most popular drugs including the categories "" referring to drug related equipment and "Other". Each instance was sorted into a category according the the drug name contained in the description. The evolution of the police reporting for each 6 months after the year 2003  is illustrated in the following interactive plot categorized by drug type. 
+The trend of the police reportings contrasts the perceived presence of an increasing drug problem in the media. The reporting instances are therefore categorized by drug type to see if the trend is caused by a specific drug. The most recurring instance descriptions were investigated to make a list of the most popular drugs including the categories "narctosics paraphernalia" referring to drug related equipment and "Other". Each instance was sorted into a category according the the drug name contained in the description. The evolution of the police reporting for each 6 months after the year 2003  is illustrated in the following interactive plot categorized by drug type. 
 
 {% include drug_reportings_tenderloin.html %}
 
-<embed type="text/html" src="imgs/map_reportings_tenderloin.html" width="110%" height="950"/>
-
 It is clear that Cocaine has been the most dominant drug in circulation with a trend similar to the trend of the overall drug reportings.  Narcotic paraphernalia and other drug related offences also follow the trend with a smaller magnitude and a smaller peak in 2010 compared to cocain. As the specification of the narcotic paraphernalia and the other offences are unknown it one can not reject the possibility that these categories are a consequence of the cocain related consumption. The other categories show a more stable evolution with a slight negative slope. 
-
+ 
 # Map visualization 
 
 In 2018, Tenderloin got honoured by hosting the distiest block in all San Francisco ([The New York Times](https://www.nytimes.com/2018/10/08/us/san-francisco-dirtiest-street-london-breed.html)), the 300 block of Hyde Street. This block is located in the heart of the Tenderloin neighborhood and is known to be the chosen location for homeless people and drug addicts, thus all the heroine needles and human feces that are constantly seen there.
