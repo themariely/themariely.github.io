@@ -1,5 +1,5 @@
 ---
-title: Dope in the City - San Francisco's struggle with drugs
+title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 ---
 <div align="justify">
 <p>Throughout the years San Francisco has been in a battle with drug related crimes. According to the <a href="https://drugabusestatistics.org/">National Institute on Drug Abuse</a>, drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700 000 reported deaths.</p>
@@ -50,7 +50,7 @@ title: Dope in the City - San Francisco's struggle with drugs
 </div>
 
 <embed type="text/html" src="imgs/heatmap_tenderloin_map.html" width="110%" height="950"/>
-<p><em> The heatmap illustrates the intensity of DRUG/NARCOTICS crime reports across the Tenderloin neighborhood from 2003 to 2017. Note that the colour seen describe the frequency of incidents: from cool blues indicating lower activity to fiery reds signaling higher occurrences. Keep an eye out for the "dirtiest" block identified by a marker. </em></p>
+<p><em> The heatmap illustrates the intensity of DRUG/NARCOTICS crime reports across the Tenderloin neighborhood from 2003 to 2017. Note that the colours seen describe the frequency of incidents: from cool blues indicating lower activity to fiery reds signaling higher occurrences. Keep an eye out for the "dirtiest" block identified by a marker. </em></p>
 
 
 # Outside factors
