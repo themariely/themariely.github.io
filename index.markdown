@@ -42,7 +42,7 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 
 <p>"Narcotics paraphernalia" and "Other" have their own categories but these crimes may be a consequence of other drug-related crimes. The trends of these categories could be directly correlated, e.g. the use of cocaine. Therefore, little information can be derived from these categories. The remaining categories show a more stable evolution of around 150 counts per 6 months with a slight negative slope. </p>
 
-<p>Altogether, the figures show that cocaine has a big influence on the drug-related crime reportings in Tenderloin, San Francisco.</p>
+<p>Altogether, the figure shows that cocaine has had a big influence at the beginning of the century on the drug-related crime reportings in Tenderloin, San Francisco. However, the data shows a drastic change with its influece reaching a low point of 15 reportings in 2017. At this year, cocaine reaches the same reporting level of the other drugs. This is around a 96% decrease from its peak of 415 reports in 2009.</p>
 </div>
  
 # Where to find the dirtiest block?
