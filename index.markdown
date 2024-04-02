@@ -11,54 +11,41 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 </div>
 
 
+
 # San Fransisco in districts
 
+
 <div align="justify">
-San Fransisco has 10 districts spanning over 121 kilometers and is the home of 808 437 residents [reference]. It is common knowledge that districts within a city have different characteristics, especially in a city as big as San Fransisco. Hence, the number of drugs/narcotic-related reportings from 2003 to 2017 is illustrated in the figure on the left below where the instance location is color-coded according to the district. The three districts with the highest drug-related repotings are highlighted on the right of the figure which are Tenderloin, Southern and Mission respectively.
-</div>
+<p>San Francisco has 10 districts spanning over 121 kilometers and is the home of 808,437 residents [<a href="reference">reference</a>]. It is common knowledge that districts within a city have different characteristics, especially in a city as big as San Francisco. Hence, the number of drugs/narcotic-related reportings from 2003 to 2017 is illustrated in the figure on the left below where the instance location is color-coded according to the district. The three districts with the highest drug-related repotings are highlighted on the right of the figure which are Tenderloin, Southern and Mission respectively.</p>
 
 <img src="{{site.url}}/imgs/drugs_crime_all.png" style="display: block; margin: auto;" />
 
-*Figure 1. Plot 1 (left): The barplot displays the count of DRUG/NARCOTICS crime reports in San Francisco from 2003 to 2017; Plot 2-4 (right): The barplots display the count of DRUG/NARCOTICS crime reports in Tenderloin, Southern and Mission, respectively, from 2003 to 2017. Note that the range for Plot 1 spans from 0 to 12000 counts where the range for Plot 2-4 spans from 0 to 5000 counts.*
+<p><em>Figure 1. Plot 1 (left): The barplot displays the count of DRUG/NARCOTICS crime reports in San Francisco from 2003 to 2017; Plot 2-4 (right): The barplots display the count of DRUG/NARCOTICS crime reports in Tenderloin, Southern and Mission, respectively, from 2003 to 2017. Note that the range for Plot 1 spans from 0 to 12000 counts where the range for Plot 2-4 spans from 0 to 5000 counts.</em></p>
 
-<div align="justify">
+<p>Plot 1 illustrates a significant downward trend of drugs and narcotics incidents reported since 2003 after peaking in 2009, with a slight increase in 2013. The number of incidents reported in 2017 is the lowest in the period analyzed.</p>
 
-Plot 1, illistrates a significant downward trend of drugs and narcotics incidents reported since 2003 after peaking in 2009, with a slight increase in 2013. The number of incidents reported in 2017 is the lowest in the period analyzed. 
-</div>
-
-<div align="justify">
-
-The comparison of the three districts with the most crime counts reveals that Tenderloin is the district with the highest number of drug and narcotics incidents reported in San Francisco, which is followed by Southern and Mission, respectively. What's particularly interesting is the sharp contrast between Tenderloin and the other neighborhoods. Throughout the analyzed period, Tenderloin generally reports more incidents than Southern and Mission combined.
+<p>The comparison of the three districts with the most crime counts reveals that Tenderloin is the district with the highest number of drug and narcotics incidents reported in San Francisco, which is followed by Southern and Mission, respectively. What's particularly interesting is the sharp contrast between Tenderloin and the other neighborhoods. Throughout the analyzed period, Tenderloin generally reports more incidents than Southern and Mission combined.</p>
 </div>
 
 
 # What types of drug?
 
-<div align="justify">
+
 The media currently represents the drug problem in Tenderloin as problematic, as mentioned earlier. This constrasts with the decreasing trend of the police reportings up until the year 2017. To get a deeper look into the behavior of the drug market through police reportings in Tenderloin, the most recurring drugs where extracted from the report descriptions. This includes categories such as "Narcotics paraphernalia" referring to drug related equipment and "Other" including all  uncategorised instances. The development of the police reporting for each 6 months after the year 2003  is illustrated in the following interactive plot categorized by drug type. 
-</div>
 
 {% include drug_reportings_tenderloin.html %}
 *Figure 2: Interactive line chart of the reporting counts for each drug category in the years after 2003 with 6 months interval. Note that the values are discrete but illustrated as continuous for the sake of clarity.*
 
-<div align="justify">
+
 It is clear that cocaine has been the most dominant drug in circulation with a decreasing trend similar to the trend of the overall drug reportings. Narcotic paraphernalia and other drug related offences also follow the trend with a smaller magnitude and a smaller peak in 2009 compared to cocaine. The specific activities related to "Narcotics paraphernalia" and "Other" are unknown. This means that their trends could be directly correlated with other activities, e.g. cocaine related activities. Therefore, little information can be derived from these categories. The remaining categories show a more stable evolution around 150 counts per 6 months with a slight negative slope. It is clear that cocaine has a big influence on the drug related crime reportings in Tenderloin, San Fransisco.  
-</div>
-
-
+ 
 # Map visualization 
 
-<div align="justify">
 In 2018, Tenderloin got honoured by hosting the distiest block in all San Francisco ([The New York Times](https://www.nytimes.com/2018/10/08/us/san-francisco-dirtiest-street-london-breed.html)), the 300 block of Hyde Street. This block is located in the heart of the Tenderloin neighborhood and is known to be the chosen location for homeless people and drug addicts, thus all the heroine needles and human feces that are constantly seen there.
-</div>
 
-<div align="justify">
 The map below shows what could be expected according to the information in the section above. The Tenderloin neighbourhood, which has the smallest area of all San Francisco districts, has several hotspots for drug and narcotics incidets spread around its area. 
-</div>
 
-<div align="justify">
 The big focus made by the media about the 300 block of Hyde Street and its home to in the open drug activity, could create the impression that this is a place where most of the drug and narcotics incidents are reported. However, the map below shows that this is not the case. As it happens, the whole area is covered with red dots, indicating no corner is free from this type of illicit activity.
-</div>
 
 
 <embed type="text/html" src="imgs/map_drugs_tenderloin_focus.html" width="110%" height="950"/>
