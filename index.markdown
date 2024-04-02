@@ -1,5 +1,3 @@
-<h1 id="hello-world">Hello World</h1>
-
 ---
 title: San Francisco's struggle with drugs and narcotics
 ---
@@ -8,7 +6,7 @@ Throughout the years San Fransisco has been in a battle with drug related crimes
 
  As late as the 2nd Feb 2024, New York Times states that “San Fransisco is in the middle of a drug crisis” [reference]. As the influence of drugs in San Fransico is non-negociable, this page will inevstigate how the social situation is reflected in the police reportings of the Police Department from 2003 to 2017. 
 
-The dataset is obtained from  [DataSF](https://datasf.org/opendata/) containing all crime occurrences in San Fransisco over this period. The incidents on drugs and narcotics are extraced and analysed which include incidents related to illegal drugs or controlled substances and may include manufacturing, distribution, possession, and trafficking, amongst others. The dataset contains information about the type of crime, the date and time, the police district, the crime location and more. This information will be used to shed light on the social situation in San Fransisco from another point of view.
+The dataset is obtained from  [DataSF](https://datasf.org/opendata/) containing all crime occurrences in San Fransisco over this period. The incidents on drugs and narcotics are extraced and analysed which include incidents related to illegal drugs or controlled substances and may include manufacturing, distribution, possession, and trafficking, amongst others. The dataset contains information about the type of crime, the date and time, the police district, the crime location and more. This information will be used to shed light on the social situation in San Fransisco from another point of view. text
 
 # San Fransisco in districts
 
