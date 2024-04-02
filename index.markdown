@@ -45,18 +45,22 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 <p>Altogether, the figure shows that cocaine has had a big influence at the beginning of the century on the drug-related crime reportings in Tenderloin, San Francisco. However, the data shows a drastic change with its influece reaching a low point of 15 reportings in 2017. At this year, cocaine reaches the same reporting level of the other drugs. This is around a 96% decrease from its peak of 415 reports in 2009.</p>
 </div>
  
-# Where to find the dirtiest block?
+# Where to find the dirtiest block
 
 <div align="justify">
-<p>In 2018, Tenderloin got honored by hosting the dirtiest block in all San Francisco (<a href="https://www.nytimes.com/2018/10/08/us/san-francisco-dirtiest-street-london-breed.html">The New York Times</a>), the 300 block of Hyde Street. This block, located in the heart of the Tenderloin neighborhood, is known to be the a gathering spot for homeless population and drug users for years. Consequently, it has become a unclean and smelly area with multiple heroin needles and human feces out in the open.</p>
+<p>In 2018, the 300 block of Hyde Street got honored by hosting the dirtiest block in all San Francisco (<a href="https://www.nytimes.com/2018/10/08/us/san-francisco-dirtiest-street-london-breed.html">The New York Times</a>). This block, located in the heart of the Tenderloin neighborhood, is known to be a gathering spot for homeless population and drug users for years. Consequently, it has become a unclean and smelly area with multiple heroin needles and human feces out in the open.</p>
 
-<p> Could the presence of such troubled subjects and the out in the open drug activity in this block contribute to more reports of drug-related incidents? In order to analysise this, we've analyzed the intensity of drug and narcotics crimes across different areas within Tenderloin, as seen in Figure 3. </p>
+<p> Is the dirtiness of the block reflected in the available data on drug activities in the area? To investigate this, a heatmap of the intensity of drug and narcotics crimes within Tenderloin is seen in figure 3. </p>
+
 <embed type="text/html" src="imgs/heatmap_tenderloin_map.html" width="110%" height="950"/>
-<p><em> Figure 3: heatmap which illustrates the intensity of DRUG/NARCOTICS crime reports across the Tenderloin neighborhood from 2003 to 2017. Note that the colours seen describe the frequency of incidents: from cool blues indicating lower activity to fiery reds signaling higher occurrences. Keep an eye out for the "dirtiest" block identified by a marker. </em></p>
 
-<p>The big focus made by the media about the 300 block of Hyde Street and its home to in the open drug activity could create the impression that this is a place where most of the drug and narcotics incidents are reported. However, the map below shows that this is not the case. As it happens, the whole area is covered with red dots, indicating no corner is free from this type of illicit activity.</p>
+<p><em> Figure 3: Heatmap which illustrates the intensity of DRUG/NARCOTICS crime reports across the Tenderloin neighborhood from 2003 to 2017. Note that the colours seen describe the frequency of incidents: from cool blues indicating lower activity to fiery reds signaling higher occurrences. Keep an eye out for the "dirtiest" block identified by a marker. </em></p>
+
+<p>Looking at the map, The Tenderloin neighborhood, which has the smallest area of all San Francisco districts, has an uniform distribution of drug and narcotics incidents.The big focus made by the media about the 300 block of Hyde Street and its visible drug activity could create the impression that this is a place where most of the drug and narcotics incidents are reported. However, the data shows this is not the case as the most intense hotspots appear a couple blocks away from the infamous dirtiest block.</p>
+
+<p>It is important to highlight that the map shows that drug and narcotics incidents are systematicaly reported in the middle of streets or in cross sections. This phenomenon suggests potential human noise in the data. This means that the location of the incidents are not completely reliable and it is unclear where the most drug-related activities are happening on such a small scale. </p>
+
 </div>
-
 # So... What is actually happening?
 
 
