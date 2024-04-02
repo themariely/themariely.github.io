@@ -1,8 +1,8 @@
 ---
 title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 ---
-<div align="justify">
-<p> San Francisco has had a long battle with drugs. According to the National Institute on Drug Abuse, drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700,000 reported deaths.</p>
+<div align="justify">  
+<p> San Francisco has had a long battle with drugs. According to the <a href="https://drugabusestatistics.org/">National Institute on Drug Abuse</a>, drug overdose deaths have been increasing each year in the US since 1999, where the drug overdose has been the cause of over 700,000 reported deaths.</p>
 
 <p> As late as the 2nd Feb 2024, <a href="https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html#:~:text=San%20Francisco%20is%20in%20the,Francisco%20get%20to%20this%20point%3F">New York Times</a>  says that “San Francisco is in the middle of a drug crisis”. <a href="https://www.theguardian.com/us-news/2023/apr/27/overdose-deaths-in-san-francisco-hit-200-in-three-months-a-crying-shame">The San Fransisco Chronicle</a> states that on Dec. 17, 2021, San Francisco Mayor London Breed declared an official state of emergency in the Tenderloin district to address the escalating epidemic. The <a href="https://abc7news.com/san-francisco-record-overdose-deaths-fentanyl-wastewater-drug-testing/14186379/">ABC 7 News</a> declares 2023 as San Fransisco's deadliest year ever for drug overdoses. </p>
 
