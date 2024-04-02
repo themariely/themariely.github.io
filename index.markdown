@@ -50,6 +50,7 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 
 <p>The big focus made by the media about the 300 block of Hyde Street and its home to in the open drug activity could create the impression that this is a place where most of the drug and narcotics incidents are reported. However, the map below shows that this is not the case. As it happens, the whole area is covered with red dots, indicating no corner is free from this type of illicit activity.</p>
 </div>
+
 # Outside factors
 
 <div align="justify">
