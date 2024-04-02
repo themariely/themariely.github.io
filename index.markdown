@@ -2,13 +2,13 @@
 title: San Francisco's struggle with drugs and narcotics
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
- <div align="justify">
+<div align="justify">
+<p>Throughout the years San Francisco has been in a battle with drug related crimes. According to the <a href="https://drugabusestatistics.org/">National Institute on Drug Abuse</a>, drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700 000 reported deaths.</p>
 
-Throughout the years San Fransisco has been in a battle with drug related crimes. According to the [National Institute on Drug Abuse](https://drugabusestatistics.org/), drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700 000 reported deaths.
+<p>As late as the 2nd Feb 2024, New York Times states that “San Francisco is in the middle of a drug crisis” [reference]. As the influence of drugs in San Francisco is non-negotiable, this page will investigate how the social situation is reflected in the police reportings of the Police Department from 2003 to 2017.</p>
 
- As late as the 2nd Feb 2024, New York Times states that “San Fransisco is in the middle of a drug crisis” [reference]. As the influence of drugs in San Fransico is non-negociable, this page will inevstigate how the social situation is reflected in the police reportings of the Police Department from 2003 to 2017. 
-
-The dataset is obtained from  [DataSF](https://datasf.org/opendata/) containing all crime occurrences in San Fransisco over this period. The incidents on drugs and narcotics are extraced and analysed which include incidents related to illegal drugs or controlled substances and may include manufacturing, distribution, possession, and trafficking, amongst others. The dataset contains information about the type of crime, the date and time, the police district, the crime location and more. This information will be used to shed light on the social situation in San Fransisco from another point of view. text </div>
+<p>The dataset is obtained from <a href="https://datasf.org/opendata/">DataSF</a> containing all crime occurrences in San Francisco over this period. The incidents on drugs and narcotics are extracted and analysed which include incidents related to illegal drugs or controlled substances and may include manufacturing, distribution, possession, and trafficking, amongst others. The dataset contains information about the type of crime, the date and time, the police district, the crime location and more. This information will be used to shed light on the social situation in San Francisco from another point of view.</p>
+</div>
 
 
 # San Fransisco in districts
