@@ -49,7 +49,7 @@ title: Dope in the City - San Francisco's struggle with drugs
 <p>The big focus made by the media about the 300 block of Hyde Street and its home to in the open drug activity could create the impression that this is a place where most of the drug and narcotics incidents are reported. However, the map below shows that this is not the case. As it happens, the whole area is covered with red dots, indicating no corner is free from this type of illicit activity.</p>
 </div>
 
-<embed type="text/html" src="imgs/map_drugs_tenderloin_focus.html" width="110%" height="950"/>
+<embed type="text/html" src="imgs/heatmap_tenderloin_map.html" width="110%" height="950"/>
 <p><em>Interactive heatmap showing the variation of DRUG/NARCOTICS crime reports in the Tenderloin neighborhood from 2003 to 2017</em></p>
 
 
