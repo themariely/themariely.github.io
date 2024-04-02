@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: (02806) Social Data Analysis and Visualization
+title: 'Dope in the City: San Francisco's struggle with drugs'
 email: s230555@dtu.dk, s193936@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   This website has been created for the course (02806) Social Data Analysis and Visualization at DTU. 
