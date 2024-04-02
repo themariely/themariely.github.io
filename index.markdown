@@ -24,7 +24,7 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 
 <p>Plot 2, 3 and 4 show that Tenderloin is the district with the highest number of drug and narcotics incidents reported in San Francisco, which is followed by Southern and Mission, respectively. Note the contrast between Tenderloin and the other neighborhoods. Throughout the analyzed period, Tenderloin generally reports more incidents than Southern and Mission combined.</p>
 
-<p>The data clearly shows that the trend for drug-related crimes from 2003 to 2017 decrease, even for the district with the highest total crime count. This contrasts with the current media representation of the drug situation in San Fransisco.</p>
+<p>The data clearly shows that the trend for drug-related crimes from 2003 to 2017 decrease, even for the district with the highest total crime count. This contrasts with the current media representation of the drug situation in San Francisco.</p>
 
 </div>
 
@@ -32,13 +32,17 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 # San Francisco's favorite drugs
 
 <div align="justify">
-<p>To get a deeper look into Tenderloin's drug situation. the most recurring drugs were extracted from the police report descriptions. This includes the categories "Narcotics paraphernalia" referring to drug-related equipment and "Other" including all uncategorized instances. The development of the police reportings after the year 2003 is illustrated in the following interactive plot categorized by drug type. Note that the timeline is discretized with an interval of 6 months.</p>
+<p>To get a deeper look into Tenderloin's drug situation, the most recurring drugs were extracted from the police report descriptions. This includes the categories "Narcotics paraphernalia" referring to drug-related equipment and "Other" including all uncategorized instances. The development of the police reportings after the year 2003 is illustrated in the following interactive plot categorized by drug type. Note that the timeline is discretized with an interval of 6 months and is possible to hide the trends for specific categories by clicking on their labels </p>
 
 {% include drug_reportings_tenderloin.html %}
 
 <p><em>Figure 2: Interactive line chart of the reporting counts for each drug category in the years after 2003 with 6 months interval. Note that the values are discrete but illustrated as continuous for the sake of clarity.</em></p>
 
-<p>The data shows that cocaine has been the most dominant drug in circulation with a decreasing trend similar to the trend of the overall drug reportings. Narcotic paraphernalia and other drug-related offenses also follow the trend with a smaller magnitude and a smaller peak in 2009 compared to cocaine. "Narcotics paraphernalia" and "Other" have their own categories but these crimes may be a consequence of other drug-related crimes. The trends of these categories could be directly correlated, e.g. the use of cocaine. Therefore, little information can be derived from these categories. The remaining categories show a more stable evolution of around 150 counts per 6 months with a slight negative slope. Altogether, the figures show that cocaine has a big influence on the drug-related crime reportings in Tenderloin, San Francisco.</p>
+<p>The data shows that cocaine has been the most dominant drug in circulation with a decreasing trend similar to the trend of the overall drug reportings. Narcotic paraphernalia and other drug-related offenses also follow the trend with a smaller magnitude and a smaller peak in 2009 compared to cocaine. </p>
+
+<p>"Narcotics paraphernalia" and "Other" have their own categories but these crimes may be a consequence of other drug-related crimes. The trends of these categories could be directly correlated, e.g. the use of cocaine. Therefore, little information can be derived from these categories. The remaining categories show a more stable evolution of around 150 counts per 6 months with a slight negative slope. </p>
+
+<p>Altogether, the figures show that cocaine has a big influence on the drug-related crime reportings in Tenderloin, San Francisco.</p>
 </div>
  
 # Where to find the dirtiest block?
