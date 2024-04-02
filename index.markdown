@@ -13,18 +13,23 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 # San Fransisco in districts
 
-
+<div align="justify">
 San Fransisco has 10 districts spanning over 121 kilometers and is the home of 808 437 residents [reference]. It is common knowledge that districts within a city have different characteristics, especially in a city as big as San Fransisco. Hence, the number of drugs/narcotic-related reportings from 2003 to 2017 is illustrated in the figure on the left below where the instance location is color-coded according to the district. The three districts with the highest drug-related repotings are highlighted on the right of the figure which are Tenderloin, Southern and Mission respectively.
+</div>
 
 <img src="{{site.url}}/imgs/drugs_crime_all.png" style="display: block; margin: auto;" />
 
 *Figure 1. Plot 1 (left): The barplot displays the count of DRUG/NARCOTICS crime reports in San Francisco from 2003 to 2017; Plot 2-4 (right): The barplots display the count of DRUG/NARCOTICS crime reports in Tenderloin, Southern and Mission, respectively, from 2003 to 2017. Note that the range for Plot 1 spans from 0 to 12000 counts where the range for Plot 2-4 spans from 0 to 5000 counts.*
 
+<div align="justify">
 
 Plot 1, illistrates a significant downward trend of drugs and narcotics incidents reported since 2003 after peaking in 2009, with a slight increase in 2013. The number of incidents reported in 2017 is the lowest in the period analyzed. 
+<div align="justify">
 
+<div align="justify">
 
 The comparison of the three districts with the most crime counts reveals that Tenderloin is the district with the highest number of drug and narcotics incidents reported in San Francisco, which is followed by Southern and Mission, respectively. What's particularly interesting is the sharp contrast between Tenderloin and the other neighborhoods. Throughout the analyzed period, Tenderloin generally reports more incidents than Southern and Mission combined.
+<div align="justify">
 
 
 # What types of drug?
