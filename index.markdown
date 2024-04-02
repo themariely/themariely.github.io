@@ -11,7 +11,7 @@ The dataset is obtained from  [DataSF](https://datasf.org/opendata/) containing 
 
 San Fransisco has 10 districts spanning over 121 kilometers and is the home of 808 437 residents [reference]. It is common knowledge that districts within a city have different characteristics, especially in a city as big as San Fransisco. Hence the number of drugs/narcotic-related reportings from 2003 to 2017 is illustrated in the figure on the left below where the instance location is color-coded according to the district. The three districts with the highest drug-related repotings are highlighted on the right of the figure which are Tenderloin, Southern and Mission respectively. The number of incidents reported has been decreasing since 2003 peaking in 2014. The number of incidents reported in 2017 is the lowest in the period analyzed.
 
-{% include drug_crime_all.png %}
+<img src="{{site.url}}/imgs/drugs_crime_all.png" style="display: block; margin: auto;" />
 
 *Plot 1: The barplot displays the count of DRUG/NARCOTICS crime reports in San Francisco from 2003 to 2017; Plot 2-4: The barplots display the count of DRUG/NARCOTICS crime reports in Tenderloin, Southern and Mission, respectively, from 2003 to 2017*
 
