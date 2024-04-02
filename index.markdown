@@ -1,5 +1,6 @@
 ---
 title: San Francisco's struggle with drugs and narcotics
+feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 Throughout the years San Fransisco has been in a battle with drug related crimes. According to the [National Institute on Drug Abuse](https://drugabusestatistics.org/), drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700 000 reported deaths.
