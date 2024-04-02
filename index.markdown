@@ -50,7 +50,7 @@ title: Dope in the City - San Francisco's struggle with drugs
 </div>
 
 <embed type="text/html" src="imgs/heatmap_tenderloin_map.html" width="110%" height="950"/>
-<p><em>Interactive heatmap showing the variation of DRUG/NARCOTICS crime reports in the Tenderloin neighborhood from 2003 to 2017</em></p>
+<p><em> The heatmap illustrates the intensity of DRUG/NARCOTICS crime reports across the Tenderloin neighborhood from 2003 to 2017. Note that the colour seen describe the frequency of incidents: from cool blues indicating lower activity to fiery reds signaling higher occurrences. Keep an eye out for the "dirtiest" block identified by a marker. </em></p>
 
 
 # Outside factors
