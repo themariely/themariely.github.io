@@ -1,5 +1,5 @@
 ---
-title: 'Dope in the City: San Francisco's struggle with drugs'
+title: Dope in the City - San Francisco's struggle with drugs
 ---
 <div align="justify">
 <p>Throughout the years San Francisco has been in a battle with drug related crimes. According to the <a href="https://drugabusestatistics.org/">National Institute on Drug Abuse</a>, drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700 000 reported deaths.</p>
@@ -17,7 +17,7 @@ title: 'Dope in the City: San Francisco's struggle with drugs'
 <div align="justify">
 <p>San Francisco has 10 districts spanning over 121 kilometers and is the home of 808,437 residents [<a href="reference">reference</a>]. It is common knowledge that districts within a city have different characteristics, especially in a city as big as San Francisco. Hence, the number of drugs/narcotic-related reportings from 2003 to 2017 is illustrated in the figure on the left below where the instance location is color-coded according to the district. The three districts with the highest drug-related repotings are highlighted on the right of the figure which are Tenderloin, Southern and Mission respectively.</p>
 
-<img src="{{site.url}}/imgs/drugs_crime_all.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/imgs/drug_crime_all.png" style="display: block; margin: auto;" />
 
 <p><em>Figure 1. Plot 1 (left): The barplot displays the count of DRUG/NARCOTICS crime reports in San Francisco from 2003 to 2017; Plot 2-4 (right): The barplots display the count of DRUG/NARCOTICS crime reports in Tenderloin, Southern and Mission, respectively, from 2003 to 2017. Note that the range for Plot 1 spans from 0 to 12000 counts where the range for Plot 2-4 spans from 0 to 5000 counts.</em></p>
 
