@@ -4,14 +4,12 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 <div align="justify">
 <p> San Francisco has had a long battle with drugs. According to the National Institute on Drug Abuse, drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700,000 reported deaths.</p>
 
-<p> As late as the 2nd Feb 2024, <a href="https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html#:~:text=San%20Francisco%20is%20in%20the,Francisco%20get%20to%20this%20point%3F">New York Times</a>  says that “San Francisco is in the middle of a drug crisis”. <a href="https://www.theguardian.com/us-news/2023/apr/27/overdose-deaths-in-san-francisco-hit-200-in-three-months-a-crying-shame">The San Fransisco Chronicle</a> states that on Dec. 17, 2021, San Francisco Mayor London Breed declared an official state of emergency in the Tenderloin district to address the escalating epidemic. The <a href="https://abc7news.com/san-francisco-record-overdose-deaths-fentanyl-wastewater-drug-testing/14186379/">ABC 7 News</a> declares 2023 as San Fransisco's deadliest year ever for drug overdoses .
+<p> As late as the 2nd Feb 2024, <a href="https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html#:~:text=San%20Francisco%20is%20in%20the,Francisco%20get%20to%20this%20point%3F">New York Times</a>  says that “San Francisco is in the middle of a drug crisis”. <a href="https://www.theguardian.com/us-news/2023/apr/27/overdose-deaths-in-san-francisco-hit-200-in-three-months-a-crying-shame">The San Fransisco Chronicle</a> states that on Dec. 17, 2021, San Francisco Mayor London Breed declared an official state of emergency in the Tenderloin district to address the escalating epidemic. The <a href="https://abc7news.com/san-francisco-record-overdose-deaths-fentanyl-wastewater-drug-testing/14186379/">ABC 7 News</a> declares 2023 as San Fransisco's deadliest year ever for drug overdoses. </p>
 
-</p>The effect of drugs on the city is undeniable. This page will investigate the social situation through the police reportings of the Police Department from 2003 to 2017.<p>
+<p>The effect of drugs on the city is undeniable. This page will investigate the social situation through the police reportings of the Police Department from 2003 to 2017.</p>
 
 <p>The dataset is obtained from <a href="https://datasf.org/opendata/">DataSF</a> containing all crime occurrences in San Francisco from 2003 to the beginning of 2018. The incidents on drugs and narcotics are selected and analyzed which include incidents related to illegal drugs or controlled substances and may include manufacturing, distribution, possession, and trafficking, amongst others. The dataset contains information about the type of crime, the date and time, the police district, the crime location, and more. The analysis was limited to whole years for clarity, hence the instances in the year 2018 were excluded from the data. This data will be used to shed light on the social situation in San Francisco.</p>
 </div>
-
-
 
 # San Francisco's "bad" districts
 
@@ -32,7 +30,7 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 </div>
 
 
-# San Fransiscos faovorit durgs
+# San Francisco's favorite drugs
 
 <div align="justify">
 <p>To get a deeper look into Tenderloin's drug situation. the most recurring drugs were extracted from the police report descriptions. This includes the categories "Narcotics paraphernalia" referring to drug-related equipment and "Other" including all uncategorized instances. The development of the police reportings after the year 2003 is illustrated in the following interactive plot categorized by drug type. Note that the timeline is discretized with an interval of 6 months.</p>
@@ -44,7 +42,7 @@ title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 <p>The data shows that cocaine has been the most dominant drug in circulation with a decreasing trend similar to the trend of the overall drug reportings. Narcotic paraphernalia and other drug-related offenses also follow the trend with a smaller magnitude and a smaller peak in 2009 compared to cocaine. "Narcotics paraphernalia" and "Other" have their own categories but these crimes may be a consequence of other drug-related crimes. The trends of these categories could be directly correlated, e.g. the use of cocaine. Therefore, little information can be derived from these categories. The remaining categories show a more stable evolution of around 150 counts per 6 months with a slight negative slope. Altogether, the figures show that cocaine has a big influence on the drug-related crime reportings in Tenderloin, San Francisco.</p>
 </div>
  
-# Map visualization 
+# Where to find the dirtiest block?
 
 <div align="justify">
 <p>In 2018, Tenderloin got honored by hosting the dirtiest block in all San Francisco (<a href="https://www.nytimes.com/2018/10/08/us/san-francisco-dirtiest-street-london-breed.html">The New York Times</a>), the 300 block of Hyde Street. This block, located in the heart of the Tenderloin neighborhood, is known to be the a gathering spot for homeless population and drug users for years. Consequently, it has become a unclean and smelly area with multiple heroin needles and human feces out in the open.</p>
