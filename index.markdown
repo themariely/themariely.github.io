@@ -1,7 +1,7 @@
 ---
 title: "Dope in the City: San Francisco's Ongoing Battle with Drugs"
 ---
-The analysis below is based on the work done in this repository: [Asignment repository](https://github.com/themariely/themariely.github.io) 
+The analysis below is based on the work done in this repository: [Assignment repository](https://github.com/themariely/themariely.github.io) 
 
 <div align="justify">
 <p> San Francisco has had a long battle with drugs. According to the National Institute on Drug Abuse, drug overdose deaths have been increasing each year in the US since 1999 where the drug overdose has been the cause of over 700,000 reported deaths.</p>
