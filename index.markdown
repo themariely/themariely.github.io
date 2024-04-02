@@ -30,14 +30,15 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 # What types of drug?
 
-
-The media currently represents the drug problem in Tenderloin as problematic, as mentioned earlier. This constrasts with the decreasing trend of the police reportings up until the year 2017. To get a deeper look into the behavior of the drug market through police reportings in Tenderloin, the most recurring drugs where extracted from the report descriptions. This includes categories such as "Narcotics paraphernalia" referring to drug related equipment and "Other" including all  uncategorised instances. The development of the police reporting for each 6 months after the year 2003  is illustrated in the following interactive plot categorized by drug type. 
+<div align="justify">
+<p>The media currently represents the drug problem in Tenderloin as problematic, as mentioned earlier. This contrasts with the decreasing trend of the police reportings up until the year 2017. To get a deeper look into the behavior of the drug market through police reportings in Tenderloin, the most recurring drugs were extracted from the report descriptions. This includes categories such as "Narcotics paraphernalia" referring to drug related equipment and "Other" including all uncategorised instances. The development of the police reporting for each 6 months after the year 2003 is illustrated in the following interactive plot categorized by drug type.</p>
 
 {% include drug_reportings_tenderloin.html %}
-*Figure 2: Interactive line chart of the reporting counts for each drug category in the years after 2003 with 6 months interval. Note that the values are discrete but illustrated as continuous for the sake of clarity.*
 
+<p><em>Figure 2: Interactive line chart of the reporting counts for each drug category in the years after 2003 with 6 months interval. Note that the values are discrete but illustrated as continuous for the sake of clarity.</em></p>
 
-It is clear that cocaine has been the most dominant drug in circulation with a decreasing trend similar to the trend of the overall drug reportings. Narcotic paraphernalia and other drug related offences also follow the trend with a smaller magnitude and a smaller peak in 2009 compared to cocaine. The specific activities related to "Narcotics paraphernalia" and "Other" are unknown. This means that their trends could be directly correlated with other activities, e.g. cocaine related activities. Therefore, little information can be derived from these categories. The remaining categories show a more stable evolution around 150 counts per 6 months with a slight negative slope. It is clear that cocaine has a big influence on the drug related crime reportings in Tenderloin, San Fransisco.  
+<p>It is clear that cocaine has been the most dominant drug in circulation with a decreasing trend similar to the trend of the overall drug reportings. Narcotic paraphernalia and other drug related offences also follow the trend with a smaller magnitude and a smaller peak in 2009 compared to cocaine. The specific activities related to "Narcotics paraphernalia" and "Other" are unknown. This means that their trends could be directly correlated with other activities, e.g. cocaine related activities. Therefore, little information can be derived from these categories. The remaining categories show a more stable evolution around 150 counts per 6 months with a slight negative slope. It is clear that cocaine has a big influence on the drug related crime reportings in Tenderloin, San Francisco.</p>
+</div>
  
 # Map visualization 
 
